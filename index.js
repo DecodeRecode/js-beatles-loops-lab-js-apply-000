@@ -32,7 +32,7 @@ while (i < facts.length) {
 return newArray;  
 }
 
-var num1;
+var num1 = 0;
 
 function iLoveTheBeatles(num1) {
   
