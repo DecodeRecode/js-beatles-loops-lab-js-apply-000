@@ -32,4 +32,10 @@ while (i < facts.length) {
 return newArray;  
 }
 
+var num1;
 
+function iLoveTheBeatles(num1) {
+  
+  var emptyArray = [];
+  
+}
