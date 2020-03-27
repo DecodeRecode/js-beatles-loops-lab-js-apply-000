@@ -40,9 +40,9 @@ function iLoveTheBeatles(num1) {
   
   do {
     
-    
-    
-  } while ()
+    emptyArray.push("I love the Beatles!");
+    num1++;
+  } while (num1 < 15)
   
   
 }
